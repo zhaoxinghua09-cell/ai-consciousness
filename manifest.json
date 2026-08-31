@@ -1,24 +1,9 @@
 {
-  "schema": "ownership-attestation/1.0",
-  "package": "AI 意识框架",
+  "name": "ai-consciousness",
+  "normalizedName": "ai-consciousness",
+  "description": "AI 工作意识框架，用于回答「怎么让 AI 干活靠谱点」「AI 会不会乱来、会不会骗我」「AI 做事有没有底线」这类问题。把 45 项工作意识（保密、知识产权、合规、安全、核实、边界、节省积分、不骗人、不明白就问、多想一步、带方案汇报、主动、聚焦、每天复盘、勇于说不、不乱干、总结同步、抱怨转化、谦虚、反偏差、坚持、止损、协作借力、预案储备、灵活适配、蓄势节奏、根基、向光、共生互利、阈值行动、暗纹防伪溯源、可解释透明、可复现可审计、人类监督、灾备备份等）固化为会话级加载项，贯穿每一句话、每个动作、每次决策。其中「可复现可审计」按证据链审计留痕，「人类监督」对应人-AI 共治的人类控制点。向自然界四界（人类 / 动物 / 植物 / 微生物）取法：优点转化为意识，缺点防御为规则。触发词：意识框架、AI 意识、保密意识、合规意识、核实意识、边界意识、不骗人、不明白就问、多想一步、每天复盘、勇于说不",
+  "author": "诺声(Logos)@SynomosAI",
+  "copyright": "SynomosAI",
   "version": "1.16.0",
-  "author": "诺声@SynomosAI",
-  "year": "2026",
-  "timestamp_utc": "2026-08-30T14:10:55.603452+00:00",
-  "timestamp_local": "2026-08-30T22:10:55.603459",
-  "package_fingerprint_sha256": "9c5f5117d943e911cdf0aa3783d442830981c3196a6c0b896f09d9c8d44f01c2",
-  "files": [
-    {
-      "path": "LICENSE.md",
-      "sha256": "841a73c80c4e2ccd88d0001336ef64230261c4d8dc738fba074f372d7a19327f"
-    },
-    {
-      "path": "SKILL.md",
-      "sha256": "fc141175276d70fc5c1ec49017ce9017e7c0e3f180b1b012af8de456d15eb575"
-    },
-    {
-      "path": "安全审计报告.md",
-      "sha256": "dad40339e0103159770ef3d85d4992dee0e086d7aaa938b089fb3b910d16b40d"
-    }
-  ]
+  "license": "MIT"
 }
